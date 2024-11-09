@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77b5bfb3-c8d3-4c70-9dae-3b677fd51214" />
+        <field name="Name" type="NameTableFieldDefinition" value="AG_MAG_SPELLBLADE_RUBY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c81be4e1-947a-4a86-b8ff-ba8c4b45b8cf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="05ef9354-6419-403a-83b3-6bc1a9b2672e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="150" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.2" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="AG_SPELLBLADE_FINESSE" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="NeedsIdentification" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
