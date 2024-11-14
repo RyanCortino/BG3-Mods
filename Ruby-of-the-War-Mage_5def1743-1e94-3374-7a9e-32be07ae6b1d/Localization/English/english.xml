@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h35d467acg3aa0g1fa8g103fg220e1205df58" version="8">Ruby of the War Mage</content>
+  <content contentuid="h06806478g1fb5ga654g467ag5ba544a3a160" version="8">Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a simple or martial weapon as a spellcasting focus for your spells.</content>
+  <content contentuid="h64deea1dg9229g1ab0ge8a2g54ce3e0ca78a" version="8">Etched Ruby</content>
+  <content contentuid="ha8473729g1560gffc9gc207gf02f8c9d687c" version="3">War Mage's Finesse</content>
+  <content contentuid="h7bad4786gae20g16e1g6054gf6ed0a8d1ee7" version="3">One-Handed Attacks with &lt;LSTag Tooltip="Versatile"&gt;Versatile Weapons&lt;/LSTag&gt; scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher.</content>
+  <content contentuid="h46dc7cd2ga8c2g57c8ge472gd36a649ab745" version="1">A deep burgundy colour, this stone seems to trap all light. Looks like someone has etched some kind of runes into it.</content>
+  <content contentuid="h233b8be6gcb54g4ab7gfa33g51e7a7d8e85f" version="1">A 1-inch-diameter ruby that has been etched with eldritch runes.</content>
+</contentList>

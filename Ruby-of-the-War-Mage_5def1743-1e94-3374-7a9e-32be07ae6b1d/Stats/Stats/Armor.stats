@@ -13,7 +13,7 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="0.2" />
         <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="AG_SPELLBLADE_FINESSE" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="NeedsIdentification" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="NeedsIdentification" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
