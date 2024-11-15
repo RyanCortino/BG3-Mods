@@ -1,76 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
     <version major="4" minor="7" revision="1" build="3"/>
-    <region id="Config">
+    <region id="MetaData">
         <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="5def1743-1e94-3374-7a9e-32be07ae6b1d"/>
+            <attribute id="Name" type="LSString" value="Ruby-of-the-War-Mage"/>
+            <attribute id="UUID" type="LSString" value="ca24cc92-8f43-e60b-c833-b4a0c0337510"/>
             <children>
-                <node id="Conflicts"/>
-                <node id="Dependencies">
-                    <children>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="33c1655f7ae3559b579ff3b9d2c45413"/>
-                            <attribute id="Name" type="LSString" value="GustavDev"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
-                            <attribute id="Version64" type="int64" value="145100779997082619"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ModuleInfo">
-                    <attribute id="Author" type="LSString" value="aberrantGeek"/>
-                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="This mod aims to enable a niche play style for Characters that want to wield One-Handed Versatile weapons but who don&apos;t have shield proficiency. Adds the magical item, &quot;Etched Ruby, The Ruby of the War Mage&quot;. (Available in the tutorial chest.)"/>
-                    <attribute id="FileSize" type="uint64" value="535361"/>
-                    <attribute id="Folder" type="LSString" value="Ruby-of-the-War-Mage_5def1743-1e94-3374-7a9e-32be07ae6b1d"/>
-                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="6631378d2f23de2e43a568055cfb45af"/>
-                    <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Ruby of the War Mage"/>
-                    <attribute id="NumPlayers" type="uint8" value="4"/>
-                    <attribute id="PhotoBooth" type="FixedString" value=""/>
-                    <attribute id="PublishHandle" type="uint64" value="4483767"/>
-                    <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="UUID" type="FixedString" value="5def1743-1e94-3374-7a9e-32be07ae6b1d"/>
-                    <attribute id="Version64" type="int64" value="36028797018963981"/>
-                    <children>
-                        <node id="PublishVersion">
-                            <attribute id="Version64" type="int64" value="144255927717549775"/>
-                        </node>
-                        <node id="Scripts">
-                            <children>
-                                <node id="Script">
-                                    <attribute id="UUID" type="FixedString" value="1953f77d-a201-45d7-a194-9b84c34b8461"/>
-                                    <children>
-                                        <node id="Parameters">
-                                            <children>
-                                                <node id="Parameter">
-                                                    <attribute id="MapKey" type="FixedString" value="HardcoreOnly"/>
-                                                    <attribute id="Type" type="int32" value="1"/>
-                                                    <attribute id="Value" type="LSString" value="0"/>
-                                                </node>
-                                            </children>
-                                        </node>
-                                    </children>
-                                </node>
-                                <node id="Script">
-                                    <attribute id="UUID" type="FixedString" value="0d6510f5-50a3-4ecd-83d8-134c9a640324"/>
-                                    <children>
-                                        <node id="Parameters">
-                                            <children>
-                                                <node id="Parameter">
-                                                    <attribute id="MapKey" type="FixedString" value="HardcoreOnly"/>
-                                                    <attribute id="Type" type="int32" value="1"/>
-                                                    <attribute id="Value" type="LSString" value="0"/>
-                                                </node>
-                                            </children>
-                                        </node>
-                                    </children>
-                                </node>
-                            </children>
-                        </node>
-                    </children>
-                </node>
+                <node id="Categories"/>
             </children>
         </node>
     </region>

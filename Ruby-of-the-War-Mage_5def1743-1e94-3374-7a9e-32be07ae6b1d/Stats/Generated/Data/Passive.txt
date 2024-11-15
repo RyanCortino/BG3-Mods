@@ -1,0 +1,9 @@
+new entry "AG_SPELLBLADE_FINESSE"
+type "PassiveData"
+data "DisplayName" "ha8473729g1560gffc9gc207gf02f8c9d687c;3"
+data "Description" "h7bad4786gae20g16e1g6054gf6ed0a8d1ee7;4"
+data "Properties" "Highlighted"
+data "BoostContext" "OnShortRest;OnLongRest;OnCreate;OnStatusApply;OnStatusRemove;OnEquip;OnInventoryChanged"
+data "BoostConditions" "HasVersatileOneHanded();IsDexterityGreaterThanStrength()"
+data "Boosts" "MonkWeaponAttackOverride()"
+
